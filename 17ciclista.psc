@@ -18,7 +18,7 @@ Algoritmo ciclista
 	sumaseg=segundos+segundosss
 	sumamin=minutos+minutoss
 	sumahra=horas+horass
-	Escribir "Hora    : ", sumahra
-    Escribir "Min  : ", sumamin
-    Escribir "Seg : ", sumaseg
+	Escribir "Hora de llegada    : ", sumahra
+    Escribir "Min de llegada  : ", sumamin
+    Escribir "Seg de llegada : ", sumaseg
 FinAlgoritmo
